@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Armani/Desktop/SpaceShooter/SpaceShooter/ShootShapesUp/ShootShapesUp/Content/Sound/explosion-01.wav</File>
+    <File>C:/Users/Armani/Desktop/SpaceShooter/SpaceShooter/ShootShapesUp/ShootShapesUp/Content/Sound/explosion-02.wav</File>
+    <File>C:/Users/Armani/Desktop/SpaceShooter/SpaceShooter/ShootShapesUp/ShootShapesUp/Content/Sound/explosion-03.wav</File>
+    <File>C:/Users/Armani/Desktop/SpaceShooter/SpaceShooter/ShootShapesUp/ShootShapesUp/Content/Sound/explosion-04.wav</File>
+    <File>C:/Users/Armani/Desktop/SpaceShooter/SpaceShooter/ShootShapesUp/ShootShapesUp/Content/Sound/explosion-05.wav</File>
+    <File>C:/Users/Armani/Desktop/SpaceShooter/SpaceShooter/ShootShapesUp/ShootShapesUp/Content/Sound/explosion-06.wav</File>
+    <File>C:/Users/Armani/Desktop/SpaceShooter/SpaceShooter/ShootShapesUp/ShootShapesUp/Content/Sound/explosion-07.wav</File>
+    <File>C:/Users/Armani/Desktop/SpaceShooter/SpaceShooter/ShootShapesUp/ShootShapesUp/Content/Sound/explosion-08.wav</File>
+    <File>C:/Users/Armani/Desktop/SpaceShooter/SpaceShooter/ShootShapesUp/ShootShapesUp/Content/Sound/Music.mp3</File>
+    <File>C:/Users/Armani/Desktop/SpaceShooter/SpaceShooter/ShootShapesUp/ShootShapesUp/Content/Sound/shoot-01.wav</File>
+    <File>C:/Users/Armani/Desktop/SpaceShooter/SpaceShooter/ShootShapesUp/ShootShapesUp/Content/Sound/shoot-02.wav</File>
+    <File>C:/Users/Armani/Desktop/SpaceShooter/SpaceShooter/ShootShapesUp/ShootShapesUp/Content/Sound/shoot-03.wav</File>
+    <File>C:/Users/Armani/Desktop/SpaceShooter/SpaceShooter/ShootShapesUp/ShootShapesUp/Content/Sound/shoot-04.wav</File>
+    <File>C:/Users/Armani/Desktop/SpaceShooter/SpaceShooter/ShootShapesUp/ShootShapesUp/Content/Sound/spawn-01.wav</File>
+    <File>C:/Users/Armani/Desktop/SpaceShooter/SpaceShooter/ShootShapesUp/ShootShapesUp/Content/Sound/spawn-02.wav</File>
+    <File>C:/Users/Armani/Desktop/SpaceShooter/SpaceShooter/ShootShapesUp/ShootShapesUp/Content/Sound/spawn-03.wav</File>
+    <File>C:/Users/Armani/Desktop/SpaceShooter/SpaceShooter/ShootShapesUp/ShootShapesUp/Content/Sound/spawn-04.wav</File>
+    <File>C:/Users/Armani/Desktop/SpaceShooter/SpaceShooter/ShootShapesUp/ShootShapesUp/Content/Sound/spawn-05.wav</File>
+    <File>C:/Users/Armani/Desktop/SpaceShooter/SpaceShooter/ShootShapesUp/ShootShapesUp/Content/Sound/spawn-06.wav</File>
+    <File>C:/Users/Armani/Desktop/SpaceShooter/SpaceShooter/ShootShapesUp/ShootShapesUp/Content/Sound/spawn-07.wav</File>
+    <File>C:/Users/Armani/Desktop/SpaceShooter/SpaceShooter/ShootShapesUp/ShootShapesUp/Content/Sound/spawn-08.wav</File>
+    <File>C:/Users/Armani/Desktop/SpaceShooter/SpaceShooter/ShootShapesUp/ShootShapesUp/Content/Art/Bullet.png</File>
+    <File>C:/Users/Armani/Desktop/SpaceShooter/SpaceShooter/ShootShapesUp/ShootShapesUp/Content/Art/Player.png</File>
+    <File>C:/Users/Armani/Desktop/SpaceShooter/SpaceShooter/ShootShapesUp/ShootShapesUp/Content/Art/Pointer.png</File>
+    <File>C:/Users/Armani/Desktop/SpaceShooter/SpaceShooter/ShootShapesUp/ShootShapesUp/Content/Art/Seeker.png</File>
+    <File>C:/Users/Armani/Desktop/SpaceShooter/SpaceShooter/ShootShapesUp/ShootShapesUp/Content/Art/Wanderer.png</File>
+    <File>C:/Users/Armani/Desktop/SpaceShooter/SpaceShooter/ShootShapesUp/ShootShapesUp/Content/Font.spritefont</File>
+    <File>C:/Users/Armani/Desktop/SpaceShooter/SpaceShooter/ShootShapesUp/ShootShapesUp/Content/Art/pu_Shield.png</File>
+    <File>C:/Users/Armani/Desktop/SpaceShooter/SpaceShooter/ShootShapesUp/ShootShapesUp/Content/Art/hpBar.png</File>
+    <File>C:/Users/Armani/Desktop/SpaceShooter/SpaceShooter/ShootShapesUp/ShootShapesUp/Content/Art/hpbar_inner.png</File>
+    <File>C:/Users/Armani/Desktop/SpaceShooter/SpaceShooter/ShootShapesUp/ShootShapesUp/Content/Art/spaceBG.jpg</File>
+    <File>C:/Users/Armani/Desktop/SpaceShooter/SpaceShooter/ShootShapesUp/ShootShapesUp/Content/Art/dungeonBG.png</File>
+    <File>C:/Users/Armani/Desktop/SpaceShooter/SpaceShooter/ShootShapesUp/ShootShapesUp/Content/Art/spaceship.png</File>
+    <File>C:/Users/Armani/Desktop/SpaceShooter/SpaceShooter/ShootShapesUp/ShootShapesUp/Content/Art/spaceshipBad.png</File>
+    <File>C:/Users/Armani/Desktop/SpaceShooter/SpaceShooter/ShootShapesUp/ShootShapesUp/Content/Art/Boss.png</File>
+    <File>C:/Users/Armani/Desktop/SpaceShooter/SpaceShooter/ShootShapesUp/ShootShapesUp/Content/Sound/Pickup_Coin.wav</File>
+  </SourceFiles>
+</SourceFileCollection>
